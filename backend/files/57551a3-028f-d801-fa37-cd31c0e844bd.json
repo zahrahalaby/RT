@@ -1,0 +1,20 @@
+{
+    "document_name": "untitled_form",
+    "doc_desc": "Add Description",
+    "questions": [
+        {
+            "questionText": "Gender",
+            "questionType": "checkbox",
+            "options": [
+                {
+                    "optionText": "Male"
+                },
+                {
+                    "optionText": "Female"
+                }
+            ],
+            "open": true,
+            "required": false
+        }
+    ]
+}

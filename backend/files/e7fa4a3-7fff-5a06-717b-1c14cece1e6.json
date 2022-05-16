@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "questionText": "Question",
+            "questionType": "radio",
+            "options": [
+                {
+                    "optionText": "Option 1"
+                }
+            ],
+            "open": false,
+            "required": false
+        },
+        {
+            "questionText": "Question",
+            "questionType": "radio",
+            "options": [
+                {
+                    "optionText": "Option 1"
+                }
+            ],
+            "open": false,
+            "required": false
+        },
+        {
+            "questionText": "Question",
+            "questionType": "radio",
+            "options": [
+                {
+                    "optionText": "Option 1"
+                }
+            ],
+            "open": false,
+            "required": false
+        }
+    ]
+}
